@@ -5,7 +5,6 @@ int main(int argc, char **argv[])
 {
     HANDLE FileHandle, ProcHeap;
     DWORD FileSize, Counter;
-    BYTE FileByte;
     LPVOID pFileHeap, pFileOutHeap;
     LPDWORD lpNumberOfBytesRead;
 
