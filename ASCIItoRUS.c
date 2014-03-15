@@ -12,7 +12,7 @@ int main(int argc, char **argv[])
 
     if(argc != 3)
     {
-        printf("Syntax: ASCIItoRUS <Input file name> <Output txt file name>\n");
+        printf("Syntax: ASCIItoRUS <Input file path> <Output txt file path>\n");
         return 0;
     }
 
