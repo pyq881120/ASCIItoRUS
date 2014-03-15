@@ -2,8 +2,7 @@ ASCIItoRUS
 ==========
 Converts incorrectly saved Russian (extended ASCII) to UNICODE Russian
 
-
-Reading some source code, but the Russian has been messed up? Use this program to fix it
+The output file has to be .txt
 
 _BEFORE_:
 
