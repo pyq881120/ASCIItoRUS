@@ -3,6 +3,7 @@ ASCIItoRUS
 Converts incorrectly saved Russian (extended ASCII) to UNICODE Russian
 
 Syntax: ASCIItoRUS.exe $InputFile $OutputFile.txt
+
 The output file has to be .txt
 
 _BEFORE_:
